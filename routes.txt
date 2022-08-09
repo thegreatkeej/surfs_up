@@ -1,0 +1,5 @@
+Welcome:		http://127.0.0.1:5000/
+Precipitation:	http://127.0.0.1:5000/api/v1.0/precipitation
+Stations:		http://127.0.0.1:5000/api/v1.0/stations
+*Temperature:	http://127.0.0.1:5000/api/v1.0/tobs
+*Stats		http://127.0.0.1:5000/api/v1.0/temp/2017-06-01/2017-06-30
