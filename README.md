@@ -19,6 +19,8 @@ deviation of both has a delta of only .5 degrees (Jun. sd = 3.25 and Dec. sd = 3
 •	Part of the reason for the difference in descriptive statistics between June and 
 December is that December has almost 200 more 70 degree observations than June. However, 
 June in general has more 12% observations than December (see the graphs below).  
+![alt text](https://github.com/thegreatkeej/surfs_up/blob/main/Resources/June_Temps.png)
+![alt text](https://github.com/thegreatkeej/surfs_up/blob/main/Resources/Dec_Temps.png)
 
 ## Summary
 ### Observation
@@ -38,6 +40,3 @@ will be on the island would provide insights into pricing strategies.
 precipitation, merged on date (the rise in population density might be greater than
 reduced demand durring rain or may have no effect on demand or may have a greater
 impact on demand...we should investigate this for the client).
-
-
-![alt text](https://github.com/thegreatkeej/surfs_up/blob/main/Resources/Dec_Temps.png)
