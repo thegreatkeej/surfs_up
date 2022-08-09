@@ -36,3 +36,6 @@ will be on the island would provide insights into pricing strategies.
 precipitation, merged on date (the rise in population density might be greater than
 reduced demand durring rain or may have no effect on demand or may have a greater
 impact on demand...we should investigate this for the client).
+
+
+![alt text](https://github.com/thegreatkeej/surfs_up/blob/main/Resources/Dec_Temps.png)
