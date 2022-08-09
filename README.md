@@ -12,8 +12,10 @@ wants to know if Oahu is warm and dry enough to have a surf/ice cream shop.
 ### three major points from two analysis 
 •	The temperatures in June and December are very similar to each other. The standard 
 deviation of both has a delta of only .5 degrees (Jun. sd = 3.25 and Dec. sd = 3.75).
+
 •	June has a slightly higher maximum temperature than December (Jun. = 85 and Dec. = 
 83) but the minimum temperature for December is almost 10 degrees lower than June.
+
 •	Part of the reason for the difference in descriptive statistics between June and 
 December is that December has almost 200 more 70 degree observations than June. However, 
 June in general has more 12% observations than December (see the graphs below).  
